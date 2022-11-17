@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: lightgreen;
+}
+.navbar p{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.body{
+    width: 100%;
+    height: 250px;
+    background-color: dodgerblue;
+    display: flex;
+}
+.mam{
+    width: 160px;
+    height: 230px;
+    background-color: white;
+    margin-left: 28px;
+    margin-top: 10px;
+    border: 4px solid green;
+    border-radius: 20px;
+}
+.rasm{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 5px;
+}
+.rasm img{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    }
+.rasm2{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 5px;
+}
+.rasm2 img{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    }
+.rasm3{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 5px;
+}
+.rasm3 img{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    }
+.rasm4{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 5px;
+}
+.rasm4 img{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    }
+.past{
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+}
+.past p{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+h4{
+    text-align: center;
+    margin-top: 10px;
+}
+h6{
+    text-align: center;
+    color: rgb(128, 128, 128);
+    margin-top: 5px;
+}
+p{
+    font-size: 10px;
+    color: rgb(128, 128, 128);
+    text-align: center;
+}
+button{
+   width: 100px;
+   height: 25px;
+   background-color: black;
+   margin-top: 16px;
+   border-radius: 15px;
+   margin-left: 25px;
+   color: white;
+}
+i{
+    margin-top: 5px;
+    
+}
+.fa-instagram{
+    margin-left: 40px;
+}
